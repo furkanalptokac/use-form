@@ -1,6 +1,6 @@
 {
   "name": "@furkanalptokac/use-form",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A form hook that manages your form's states, changes, errors. (All you need.)",
   "author": "Furkan Alp Tokac<me@furkanalp.com>",
   "license": "MIT",
