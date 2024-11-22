@@ -1,4 +1,4 @@
-# @fat/use-form
+# @furkanalptokac/use-form
 
 A form hook that manages your form's states, changes, errors. (All you need.)
 
@@ -7,13 +7,13 @@ A form hook that manages your form's states, changes, errors. (All you need.)
 You can use Yarn
 
 ```
-yarn add @fat/use-form
+yarn add @furkanalptokac/use-form
 ```
 
 or npm
 
 ```
-npm install @fat/use-form
+npm install @furkanalptokac/use-form
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Here's a sample implementation.
 
 ```ts
 import React from 'react';
-import { useForm } from '@fat/use-form';
+import { useForm } from '@furkanalptokac/use-form';
 
 type FormType = {
   title: string;
