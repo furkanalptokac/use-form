@@ -1,0 +1,29 @@
+{
+  "name": "@furkanalptokac/use-form",
+  "version": "0.0.0",
+  "description": "A form hook that manages your form's states, changes, errors. (All you need.)",
+  "author": "Furkan Alp Tokac<me@furkanalp.com>",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "vite build"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.1",
+    "@types/react": "^18.3.12",
+    "@vitejs/plugin-react": "^4.3.3",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "terser": "^5.36.0",
+    "vite": "^5.4.11",
+    "vite-plugin-dts": "^4.3.0"
+  }
+}
