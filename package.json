@@ -3,6 +3,10 @@
   "version": "0.0.3",
   "description": "A form hook that manages your form's states, changes, errors. (All you need.)",
   "author": "Furkan Alp Tokac<me@furkanalp.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furkanalptokac/use-form.git"
+  },
   "license": "MIT",
   "type": "module",
   "main": "dist/index.cjs.js",
